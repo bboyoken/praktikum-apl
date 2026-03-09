@@ -204,7 +204,6 @@ int main() {
                         }
                         else if (menuAdmin == 5) {
                             cout << "===== DAFTAR REQUEST PENGGUNA =====\n";
-                            // Tabel diperlebar untuk menampung kolom Peminta
                             cout << "+----+----------------------+-----------------+-----------------+\n";
                             cout << "| " << left << setw(2) << "No" << " | " << setw(20) << "Nama Makanan" << " | " << setw(15) << "Kategori" << " | " << setw(15) << "Peminta" << " |\n";
                             cout << "+----+----------------------+-----------------+-----------------+\n";
